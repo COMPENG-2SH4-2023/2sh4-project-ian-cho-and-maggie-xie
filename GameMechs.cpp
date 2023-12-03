@@ -9,8 +9,8 @@ GameMechs::GameMechs()
     exitFlag = false; // sets exitFlag to false 
 
     // initializes the board size
-    boardSizeX = 20;
-    boardSizeY = 10;
+    boardSizeX = 30;
+    boardSizeY = 15;
 
     // initialize food position and symbol
     foodPos.setObjPos(-1, -1, 'o');
